@@ -1,3 +1,34 @@
-# hzkzgc408
+# 数据集整理
 
-123
+## 1.华为数据集
+
+[发布我的数据集 v1.0 ·CH-BatteryGen/dataset-warehouse ·GitHub --- Release My Dataset v1.0 · CH-BatteryGen/dataset-warehouse · GitHub](https://github.com/CH-BatteryGen/dataset-warehouse/releases/tag/v1.0.0)
+
+[GitHub - CH-BatteryGen/dataset-warehouse： 数据集仓库 ·GitHub --- GitHub - CH-BatteryGen/dataset-warehouse: 数据集仓库 · GitHub](https://github.com/CH-BatteryGen/dataset-warehouse)
+
+
+
+
+
+## 2.DTI、QAS 和 GIS带故障标签的数据集
+
+非csv文件
+
+[模型约束深度学习用于随机条件下锂离子电池在线故障诊断 --- Model-Constrained Deep Learning for Online Fault Diagnosis in Li-ion Batteries over Stochastic Conditions](https://zenodo.org/records/10656500)
+
+
+
+
+
+## 3.丰田数据集
+
+电池包八个电池。非大电池包
+
+https://data.matr.io/1/projects/5c48dd2bc625d700019f3204
+
+
+
+4.二十辆网约车数据集
+
+https://github.com/BatICM/battery-charging-data-of-on-road-electric-vehicles?tab=readme-ov-file
+
